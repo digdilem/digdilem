@@ -1,11 +1,9 @@
-Digdilem = Dartymoor = Simon Avery
-An old geek from Dartmoor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#### Digdilem / Dartymoor / Simon Avery
+#####An old linux sysadmin and DBA from Dartmoor
 
-<!---
-digdilem/digdilem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###### I have been known to abuse: 
+* 1980s: BASIC, Quill, Adlan, GAC
+* 1990s: TADS, Borland Turbo-C
+* 2000s: **Perl**, PHP, Bootstrap, SQL
+* 2010s: Bash, Python
+* 2020s: More of the above
