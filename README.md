@@ -1,4 +1,4 @@
-#### Digdilem / Dartymoor / Flash / Simon Avery
+#### Digdilem
 ##### An old linux sysadmin and DBA from Dartmoor
 
 ###### I have been known to wield and abuse: 
