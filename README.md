@@ -10,5 +10,5 @@
 
 ###### Hobbies:
 * DIY, Home Automation, doing things with computers
-* Walking, Geocaching, Cycling, Growing things
+* Walking, Geocaching
 * Motorcycling with the occasional easy green lane
